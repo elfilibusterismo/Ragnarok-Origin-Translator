@@ -1,0 +1,8 @@
+{
+    "temp": {
+        "enabled": false,
+        "message": "Temporarily not available, please comeback later"
+    },
+    "translation": true,
+    "testing": true
+}
