@@ -5,5 +5,13 @@
     },
     "translation": true,
     "testing": false,
-    "tutorial": "https://youtu.be/GiNPVbK5T1M?si=cSonfyQH1QkWSUE0"
+    "tutorial": "https://youtu.be/GiNPVbK5T1M?si=cSonfyQH1QkWSUE0",
+    "tutorials": [
+        {
+            "title": "Can't use this folder?",
+            "description": "",
+            "button": "Watch",
+            "link": "https://youtu.be/GiNPVbK5T1M?si=cSonfyQH1QkWSUE0"
+        }
+    ]
 }
