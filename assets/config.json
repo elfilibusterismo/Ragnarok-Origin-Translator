@@ -8,8 +8,8 @@
     "tutorial": "https://youtu.be/GiNPVbK5T1M?si=cSonfyQH1QkWSUE0",
     "tutorials": [
         {
-            "title": "Can't use this folder?",
-            "description": "",
+            "title": "Having a problem?",
+            "description": "Unable to access Internal storage/Android/data folder? You can watch this tutorial and follow what's on the video",
             "button": "Watch",
             "link": "https://youtu.be/GiNPVbK5T1M?si=cSonfyQH1QkWSUE0"
         }
