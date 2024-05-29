@@ -19,5 +19,13 @@
             "button": "Watch",
             "link": "https://youtu.be/BSPhmMB1lpQ"
         }
-    ]
+    ],
+    "video_ads": {
+        "enabled": false,
+        "link": "https://youtu.be/GiNPVbK5T1M?si=cSonfyQH1QkWSUE0",
+        "title": "Subscribe",
+        "link2": "https://youtu.be/BSPhmMB1lpQ",
+        "title2": "Like",
+        "link3": "https://youtu.be/BSPhmMB1lpQ"
+    }
 }
