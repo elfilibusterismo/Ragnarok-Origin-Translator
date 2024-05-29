@@ -27,7 +27,7 @@
     ],
     "video_ads": {
         "message": "By subscribing to this channel, watching and liking the videos, developer will be able to maintain this app! Thank you!",
-        "enabled": false,
+        "enabled": true,
         "link": "https://youtu.be/GiNPVbK5T1M?si=cSonfyQH1QkWSUE0",
         "title": "Subscribe",
         "link2": "https://youtu.be/BSPhmMB1lpQ",
