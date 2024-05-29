@@ -1,7 +1,7 @@
 {
     "temp": {
         "enabled": false,
-        "message": "Update to the latest version"
+        "message": "We've just released a new update for the app which includes some additional languages support and some bug fixes! To make sure you're getting the most out of the app, we recommend you update the app."
     },
     "notice": {
         "enabled": false,
