@@ -1,10 +1,15 @@
 {
     "temp": {
         "enabled": false,
+        "message": "Update to the latest version"
+    },
+    "notice": {
+        "enabled": false,
         "message": "Temporarily not available, please comeback later"
     },
     "translation": true,
     "testing": false,
+    "version": 63,
     "tutorial": "https://youtu.be/GiNPVbK5T1M?si=cSonfyQH1QkWSUE0",
     "tutorials": [
         {
